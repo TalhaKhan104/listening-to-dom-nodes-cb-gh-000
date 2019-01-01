@@ -5,3 +5,8 @@ main.addEventListener('click', function(event)){
   alert('i was clicked!');
 
 });
+const main = document.getElementById('main');
+
+main.addEventListener('click', function(event) {
+  alert('I was clicked!');
+});
